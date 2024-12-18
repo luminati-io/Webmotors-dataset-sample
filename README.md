@@ -58,4 +58,3 @@ Identify factors that impact car prices to tailor your marketing messages. Custo
 <h2>Free access to web scraping tools and datasets for academic researchers and NGOs</h2>
 
 The Bright Initiative offers access to Bright Data's <b>[Web Scraper APIs](https://brightdata.com/products/web-scraper)</b> and <b>[ready-to-use datasets](https://brightdata.com/products/datasets)</b> to leading academic faculties and researchers, NGOs and NPOs promoting various environmental and social causes. You can submit an application <b>[here](https://brightinitiative.com)</b>.
-# Webmotors-dataset-sample
