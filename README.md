@@ -2,7 +2,7 @@
 
 <h2>A sample dataset of 1001 Webmotors listings</h2>
 
-![Webmotors listings dataset header](https://github.com/luminati-io/ASOS-dataset-sample/blob/main/ASOS-dataset.png)
+![Webmotors listings dataset header](https://github.com/luminati-io/Webmotors-dataset-sample/blob/main/Webmotors-dataset.png)
 
 A Webmotors listings dataset sample of over 1000 records. Dataset was extracted using the <b>Bright Data API</b>.
 
